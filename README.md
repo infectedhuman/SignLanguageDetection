@@ -19,5 +19,3 @@
 
 
 
-<p>Read the entire process at:</p>
-<link>http://arshad-kazi.com/sign-language-recognition-using-cnn-and-opencv/</link>
